@@ -8,12 +8,12 @@ Maybe it’s all thanks to the days of Morpheus and Kazaa with their terrible fi
 Feel free to contribute, message me with ideas and who knows, maybe together we’ll all categorise and build on different types of naming conventions! I can’t be the only tidy tag obsessive!
 
 ## How to use with MP3Tag
-```
+
 Download MP3Tag at https://www.mp3tag.de/en/download.html
 To import the Actions download the latest version of the file (within 'TAT Actions') or 'Community Contributed Actions' and import to actions.
 OR 
- ```
 navigate to
+
  ```
 C:\Program Files (x86)\Mp3tag\data\actions
  ```
