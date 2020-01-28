@@ -10,12 +10,12 @@ Feel free to contribute, message me with ideas and who knows, maybe together weâ
 ## How to use with MP3Tag
 ```
 Download MP3Tag at https://www.mp3tag.de/en/download.html
-```
-```
 To import the Actions download the latest version of the file (within 'TAT Actions') or 'Community Contributed Actions' and import to actions.
+OR 
+navigate to ```C:\Program Files (x86)\Mp3tag\data\actions```
+OR
 ```
-```
-OR navigate to C:\Program Files (x86)\Mp3tag\data\actions or C:\Users\%USERNAME%\AppData\Roaming\Mp3tag\data\actions and paste the file there.
+C:\Users\%USERNAME%\AppData\Roaming\Mp3tag\data\actions and paste the file there.
 ```
 
 ### Future Goals
