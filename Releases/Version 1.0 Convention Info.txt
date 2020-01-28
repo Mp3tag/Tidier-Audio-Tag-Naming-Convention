@@ -1,0 +1,95 @@
+FILE NAME NAMING:
+Code:
+TRACK (00) - TRACK TITLE [.EXTENSION]
+02 - Dreams.flac
+
+
+INFORMATION IN YOUR TAGS:
+Live tracks (live)
+Acoustic tracks (acoustic)
+Featuring artist (feat. Artist Name)
+Cover song (Artist Name cover)
+
+
+Specific Information:
+Heavy Horses (Steven Wilson Remix)
+Hotel California (Remastered)
+
+Multi Channel Audio Version:
+Album name [SPECIALISED FORMAT]
+Jeff Wayne's Musical Version of The War of the Worlds [SURROUND SACD]
+Jeff Wayne's Musical Version of The War of the Worlds [SURROUND DVD AUDIO]
+Jeff Wayne's Musical Version of The War of the Worlds [SURROUND]  (if sourced as digital download for example)
+Jeff Wayne's Musical Version of The War of the Worlds [SURROUND BLU-RAY]
+(Stereo BD, DVD and SACD is ignored in album format and inserted into comment)
+
+
+
+
+Comment (%COMMENT%) field can be used for several notes such as:
+24/96 Vinyl Rip
+Download-only version
+HDTracks 
+Bought from iTunes 19 May 2018
+Bonus track
+Blu-Ray Rip
+SACD
+
+
+
+FOLDER STRUCTURE:
+/Artist Name
+            /Album Name
+                    01 - Track Name
+                    02 - Track Name
+                    03 - Track Name
+
+
+Multi-disc configurations placed in same folder with total track counts as if all tracks listed on one disc (if it's the one album - aka live album, double albums)
+Multi-disc albums such as one CD with bonus instrumental should be listed as
+'ALBUM NAME'
+'ALBUM NAME - BONUS DISC' (separate folder in root of folder)
+
+Example:
+
+
+/Fleetwood Mac
+
+/Rumours
+
+/01 - Second Hand News
+/02 - Dreams
+/03 - Never Going Back Again
+/04 - Don't Stop
+/05 - Go Your Own Way
+/06 - Songbird
+/07 - The Chain
+/08 - You Make Loving Fun
+/09 - I Don't Want To Know
+/10 - Oh Daddy
+/11 - Gold Dust Woman
+folder.jpg
+
+
+
+folder.jpg containing album artwork
+
+
+Album bootlegs
+(folder and album title tag name)
+
+[BOOTLEG] ARENA NAME CITY, COUNTRY (DAY MONTH YEAR)
+example: [BOOTLEG] Hordern Pavilion, Sydney, Australia (19 Sep 2017)
+
+
+KEEP OR OBTAIN COVER ART
+
+Cover art is very useful and users should make an effort attach quality cover art images for every album/track. The aim should be for the cover art image to be at least 500x500 pixels.
+Covert art should be stored in JPEG format (use image edit program to convert the image file from other formats to JPEG).
+Cover art image should be placed in the album sub folder and should have the name (this will enable players to automatically pick up the cover art).
+Additional cover art or associated images can be placed (preferably in JPEG format) in the album sub folder with suitable explanation file names and if possible tagged.
+
+
+REMOVES FROM FIELDS:
+(Deluxe Edition)
+(
